@@ -107,9 +107,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassField\ClassField.csproj">
+    <ProjectReference Include="..\ClassField\ClassJew.csproj">
       <Project>{592F8146-225E-4D25-AB24-DC52ADF6CD56}</Project>
-      <Name>ClassField</Name>
+      <Name>ClassJew</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassField
+namespace ClassJew
 {
     /// <summary>
     /// вывод заказа
@@ -43,6 +43,7 @@ namespace ClassField
         public string NameCostumer { get; set; }
     }
 
+    [Serializable]
     public class Jewelry
     {
         /// <summary>

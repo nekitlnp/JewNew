@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfBlockJewelry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BlockJewelry>
+    <ContactDetails>
+      <string>q
+q</string>
+    </ContactDetails>
+    <NameCostumer>q</NameCostumer>
+  </BlockJewelry>
+  <BlockJewelry>
+    <ContactDetails>
+      <string>w
+w</string>
+    </ContactDetails>
+    <NameCostumer>w</NameCostumer>
+  </BlockJewelry>
+</ArrayOfBlockJewelry>
